@@ -1,0 +1,20 @@
+.shadowfiend-enabled-review{
+    display:none;
+}
+.field-shadowfiendmegamenu {
+    clear: both;
+    padding-top: 10px;
+}
+.shadowfiend-criteria {
+    margin-bottom: 40px;
+}
+#tinymce blockquote {
+    font-style: italic;
+    padding: 8px 12px;
+    background: #f8f8f8;
+    clear: both;
+}
+#widget-list .widget-title h3, #widget-list .widget-title h4 {
+    white-space: normal !important;
+    line-height: 1.5 !important;
+}

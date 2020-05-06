@@ -29,3 +29,8 @@ Version: 1.0.0
 	color: white;
 	padding: 10px;
 }
+
+.tribe-common .tribe-common-c-btn,
+.tribe-common a.tribe-common-c-btn {
+	background-color: #0cb6ff;
+}

@@ -24,4 +24,8 @@ Version: 1.0.0
 	right: 300px;
 }
 
-
+.tribe-events-widget-link a {
+	background: #0cb6ff;
+	color: white;
+	padding: 10px;
+}

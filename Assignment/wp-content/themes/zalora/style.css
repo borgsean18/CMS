@@ -10,3 +10,34 @@ Text Domain: zalora
 Tags:  two-columns, three-columns, custom-header, custom-menu, featured-images, post-formats, translation-ready
 Version: 1.0
 */
+.header-inner.clear-fix {
+    box-shadow: 0 0 8px gray;
+}
+
+.main-nav #main-menu .menu > li > a:hover {
+	background: #000000;
+	color: #0cb6ff;
+}
+
+.widget_nav_menu > div > ul > li > a {
+	border-top: 1px solid #717171;
+}
+
+.woocommerce ul.products li.product a img {
+	box-shadow: 0 0 5px gray;
+}
+
+#back-top {
+	right: 300px;
+}
+
+.tribe-events-widget-link a {
+	background: #0cb6ff;
+	color: white;
+	padding: 10px;
+}
+
+.tribe-common .tribe-common-c-btn,
+.tribe-common a.tribe-common-c-btn {
+	background-color: #0cb6ff;
+}

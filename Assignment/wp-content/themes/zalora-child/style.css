@@ -11,3 +11,7 @@ Version: 1.0.0
 	background: #000000;
 	color: #0cb6ff;
 }
+
+.widget_nav_menu > div > ul > li > a {
+	border-top: 1px solid #717171;
+}

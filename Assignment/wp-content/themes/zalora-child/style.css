@@ -2,3 +2,6 @@
 Theme Name: zalora child
 Template: zalora
 */
+.header-inner.clear-fix {
+    box-shadow: 0 0 8px gray;
+}

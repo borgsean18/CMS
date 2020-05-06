@@ -5,3 +5,8 @@ Template: zalora
 .header-inner.clear-fix {
     box-shadow: 0 0 8px gray;
 }
+
+.main-nav #main-menu .menu > li > a:hover {
+	background: #000000;
+	color: #0cb6ff;
+}

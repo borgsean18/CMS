@@ -59,7 +59,9 @@ function jsonResponse($status, $status_message, $data)
 	$response['status'] = $status;
 	$response['status_message'] = $status_message;
 	$response['data'] = $data;
-	$json_response = json_encode($response);
+	// $json_response = json_encode($response);
+	$json_response = json_encode($response, JSON_UNESCAPED_UNICODE|JSON_INVALID_UTF8_IGNORE);
+	// echo json_last_error_msg();
 	echo $json_response;
 }
 
@@ -73,7 +75,6 @@ function getItems($conn)
 	{
 		$data[] = $rows;
 	}
-
 	return $data;
 }
 

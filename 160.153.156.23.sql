@@ -1910,7 +1910,7 @@ CREATE TABLE `wp_rbmbnbafrz_users` (
 -- Dumping data for table `wp_rbmbnbafrz_users`
 --
 
-INSERT INTO `wp_rbmbnbafrz_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES(1, 'siteadmin', '$P$B44wpzxR.UttDsb6gveFoelNKaanH31', 'siteadmin', 'borgsean42@gmail.com', 'http://seanborg.eu', '2020-05-04 12:55:01', '', 0, 'siteadmin');
+INSERT INTO `wp_rbmbnbafrz_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES(1, 'siteadmin', '$P$B4T4o0KDawThy2dKRipA4W4EdY8q7./', 'siteadmin', 'borgsean42@gmail.com', 'http://seanborg.eu', '2020-05-04 12:55:01', '', 0, 'siteadmin');
 INSERT INTO `wp_rbmbnbafrz_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES(2, 'Benjamin Gatt', '$P$BY.Z9sm6cLSaMkNZul5dsbx1.45XUP1', 'benjamin-gatt', 'ben.gatt2@gmail.com', '', '2020-05-14 07:54:27', '', 0, 'Benjamin Gatt');
 
 -- --------------------------------------------------------

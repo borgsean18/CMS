@@ -143,6 +143,7 @@ return array(
     'Tribe\\Utils\\Lazy_String' => $baseDir . '/src/Tribe/Utils/Lazy_String.php',
     'Tribe\\Utils\\Post_Thumbnail' => $baseDir . '/src/Tribe/Utils/Post_Thumbnail.php',
     'Tribe\\Utils\\Query' => $baseDir . '/src/Tribe/Utils/Query.php',
+    'Tribe\\Utils\\Strings' => $baseDir . '/src/Tribe/Utils/Strings.php',
     'tad_DI52_Container' => $vendorDir . '/lucatume/di52/src/tad/DI52/Container.php',
     'tad_DI52_ContainerInterface' => $vendorDir . '/lucatume/di52/src/tad/DI52/ContainerInterface.php',
     'tad_DI52_ProtectedValue' => $vendorDir . '/lucatume/di52/src/tad/DI52/ProtectedValue.php',

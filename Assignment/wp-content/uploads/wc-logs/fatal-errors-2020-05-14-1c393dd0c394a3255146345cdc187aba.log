@@ -1,0 +1,10 @@
+2020-05-14T12:22:53+00:00 CRITICAL Uncaught Error: Call to a member function has_errors() on string in /var/www/wp-login.php:1355
+Stack trace:
+#0 {main}
+  thrown in /var/www/wp-login.php on line 1355
+
+2020-05-14T12:22:54+00:00 CRITICAL Uncaught Error: Call to a member function has_errors() on string in /var/www/wp-login.php:1355
+Stack trace:
+#0 {main}
+  thrown in /var/www/wp-login.php on line 1355
+

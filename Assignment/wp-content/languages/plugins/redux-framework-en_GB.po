@@ -2481,7 +2481,7 @@ msgstr "Are you sure?  Resetting will lose all custom values."
 msgid "You have changes that are not saved.  Would you like to save them now?"
 msgstr "You have changes that are not saved.  Would you like to save them now?"
 
-#: ReduxCore/inc/class.redux_helpers.php:622
+#: ReduxCore/inc/class.redux_helpers.php:657
 msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
 msgstr "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
 

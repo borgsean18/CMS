@@ -11,8 +11,6 @@ Schedule complete automatic backups of your WordPress installation. Decide which
 
 == Description ==
 
-**Stay home and help flattening the curve. We help you to use your time productively! Bring your blog, website or online shop to the next level. We grant a 30% discount on all our WordPress plugins in the Jump Start Sale! Valid until 30th of April 2020. [Save 30% now!](https://backwpup.com/#buy)**
-
 The **backup plugin** **[BackWPup](https://backwpup.com/)** can be used to save your complete installation including /wp-content/ and push them to an external Backup Service, like **Dropbox**, **S3**, **FTP** and many more, see list below. With a single backup .zip file you are able to easily restore an installation. Please understand: this free version will not be supported as good as the [BackWPup Pro version](https://backwpup.com). With our premium version you get first class support and more features.
 
 * Database Backup  *(needs mysqli)*
